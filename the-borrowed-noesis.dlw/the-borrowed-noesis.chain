@@ -2,8 +2,8 @@ ROOT0-DLW-CHAIN-v1
 index : 408
 slug  : the-borrowed-noesis
 seal  : 57de4bb9d1accc854e9f3d2e09a7f3a554ff95cc10e10c2704c37b6b084499b3
-prev  : 1598d44de8b7e377643f182cb35fcae3e63e1d70b8c042ba3e771adfa2919ced
-link  : fe19ef7767e8263383ae5757b5526eaa9acaadece69238a7b7f3e4471d5cccb2
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+prev  : 295351f173447035bea5819ed1e9813fe717a0dc55c4f8f7a18fc8f193719f2b
+link  : 37a3c374a493a5c89d09d2f3907e9cf273ef90500ced217bd6555f3ce9debfc3
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
